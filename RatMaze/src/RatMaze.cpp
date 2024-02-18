@@ -3,7 +3,7 @@
 // Author      : Brendan Dishion
 // Version     :
 // Copyright   : Your copyright notice
-// Description : HW #14 Rat Maze
+// Description : Rat Maze
 //============================================================================
 
 #include <iostream>
