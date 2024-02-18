@@ -3,7 +3,7 @@
 // Author      : Brendan Dishion
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Predator Prey Assignment
+// Description : Predator Prey
 //============================================================================
 
 #include <iostream>
