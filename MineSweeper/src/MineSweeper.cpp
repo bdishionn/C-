@@ -3,7 +3,7 @@
 // Author      : Brendan Dishion
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Minesweeper Assignment CS140
+// Description : Minesweeper Assignment 
 //============================================================================
 
 #include <iostream>
