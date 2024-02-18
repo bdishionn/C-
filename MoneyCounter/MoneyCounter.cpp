@@ -3,7 +3,7 @@
 // Author      : Brendan Dishion
 // Version     :
 // Copyright   : Your copyright notice
-// Description : HW #4 CS 140, Money Counter
+// Description : C++, Money Counter
 //============================================================================
 
 #include <iostream>
